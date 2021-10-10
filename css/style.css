@@ -23,7 +23,7 @@ html {
 }
 
 .hero {
-	background: url(/images/image.jpg) center/cover;
+	background: url(images/image.jpg) center/cover;
 	min-height: 700px;
 	height: 100vh;
 	position: relative;
