@@ -176,7 +176,7 @@ html {
 	width: 55px;
 	height: 55px;
 	border-radius: 50%;
-	background: var(--c-main) url(/images/icon_arrow_down.svg) center no-repeat;
+	background: var(--c-main) url(images/icon_arrow_down.svg) center no-repeat;
 	position: absolute;
 	left: 50%;
 	bottom: 0;
